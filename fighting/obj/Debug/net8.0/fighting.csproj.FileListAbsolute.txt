@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\bin\Debug\net8.0\fighting.exe
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\bin\Debug\net8.0\fighting.deps.json
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\bin\Debug\net8.0\fighting.runtimeconfig.json
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\bin\Debug\net8.0\fighting.dll
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\bin\Debug\net8.0\fighting.pdb
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfo.cs
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.dll
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\refint\fighting.dll
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.pdb
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.genruntimeconfig.cache
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\ref\fighting.dll
