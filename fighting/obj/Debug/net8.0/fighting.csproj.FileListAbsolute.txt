@@ -12,3 +12,4 @@ C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\refi
 C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.pdb
 C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.genruntimeconfig.cache
 C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\ref\fighting.dll
+C:\Users\Kevin\Documents\Programmering 1\fighting\fighting\obj\Debug\net8.0\fighting.sourcelink.json
